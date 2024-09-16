@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/uterine-robot/ros2_ws/install/dynamixel_sdk_custom_interfaces/include/**",
+        "/home/uterine-robot/ros2_ws/install/dynamixel_sdk/include/**",
+        "/home/uterine-robot/ros2_ws2/install/dynamixel_sdk_custom_interfaces/include/**",
+        "/home/uterine-robot/ros2_ws2/install/dynamixel_sdk/include/**",
+        "/opt/ros/jazzy/include/**",
+        "/home/uterine-robot/ros2_ws/src/Uterine/DynamixelSDK_Uterine/dynamixel_sdk/include/**",
+        "/home/uterine-robot/ros2_ws/src/Uterine/DynamixelSDK_Uterine/dynamixel_sdk_examples/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
